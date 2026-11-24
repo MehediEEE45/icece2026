@@ -1,0 +1,6 @@
+,config
+LightGBM,base
+Linear,base
+RandomForest,age_ratio
+Ridge,base
+XGBoost,age_ratio

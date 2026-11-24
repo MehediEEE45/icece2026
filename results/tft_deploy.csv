@@ -1,0 +1,2 @@
+n_params,fp32_param_kb,state_dict_int8_kb,latency_us_1thread,activation_sum_bytes,activation_max_tensor_bytes
+20173,78.8,53.9,1344.5,189044,24320

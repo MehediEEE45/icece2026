@@ -1,0 +1,6 @@
+model,hyperparameters
+Linear,"ordinary least squares, no hyperparameters"
+Ridge,alpha=1.0
+RandomForest,"n_estimators=300, max_depth=None, min_samples_leaf=1, max_features=1.0"
+XGBoost,"n_estimators=400, max_depth=4, learning_rate=0.05, subsample=0.9, colsample_bytree=0.9"
+LightGBM,"n_estimators=400, max_depth=4, learning_rate=0.05, subsample=0.9, colsample_bytree=0.9"

@@ -1,0 +1,6 @@
+model,config,n_features,n_trees,max_depth,n_nodes,pickle_kb,flash_c_export_kb,ram_inference_bytes,latency_us
+Linear,base,19,,,,0.8,,144,0.72
+Ridge,base,19,,,,0.6,,144,0.5
+RandomForest,age_ratio,20,300.0,25.0,270036.0,19061.9,1713.4,148,408.45
+XGBoost,age_ratio,20,400.0,4.0,9888.0,595.6,61.8,148,5.51
+LightGBM,base,19,400.0,4.0,5974.0,328.1,36.9,144,9.21

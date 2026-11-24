@@ -1,0 +1,35 @@
+battery,n_cycles,temp,q_ref,spearman_rho,eol80,eol70,status,eligible,censored
+B0005,168,24.0,1.856,-0.994,103.0,162.0,eligible,True,False
+B0006,168,24.0,2.035,-0.996,61.0,104.0,eligible,True,False
+B0007,168,24.0,1.891,-0.995,124.0,,eligible,True,False
+B0018,132,24.0,1.855,-0.982,75.0,,eligible,True,False
+B0025,28,24.0,1.849,-0.995,,,excluded: <40 cycles,False,False
+B0026,28,24.0,1.817,-0.96,,,excluded: <40 cycles,False,False
+B0027,28,24.0,1.823,-0.916,,,excluded: <40 cycles,False,False
+B0028,28,24.0,1.805,-0.999,,,excluded: <40 cycles,False,False
+B0029,40,43.0,1.845,-1.0,,,censored (never <80% SOH),False,True
+B0030,40,43.0,1.782,-0.999,,,censored (never <80% SOH),False,True
+B0031,40,43.0,1.833,-0.999,,,censored (never <80% SOH),False,True
+B0032,40,43.0,1.894,-0.999,,,censored (never <80% SOH),False,True
+B0033,196,24.0,1.885,-0.732,,,excluded: unreliable reference (initial SOH<90%),False,False
+B0034,197,24.0,1.82,-0.85,,,excluded: unreliable reference (initial SOH<90%),False,False
+B0036,197,24.0,1.985,-0.981,189.0,,eligible,True,False
+B0038,47,24.0,1.103,0.222,,,excluded: non-monotone fade (protocol-confounded),False,False
+B0039,47,24.0,0.479,0.193,,,excluded: unreliable reference (initial SOH<90%),False,False
+B0040,47,24.0,0.791,0.161,,,excluded: non-monotone fade (protocol-confounded),False,False
+B0041,25,4.0,1.216,-0.998,,,excluded: <40 cycles,False,False
+B0042,67,22.0,1.731,-0.987,62.0,,eligible,True,False
+B0043,65,22.0,1.714,-0.979,57.0,,eligible,True,False
+B0044,65,22.0,1.687,-0.977,54.0,,eligible,True,False
+B0045,70,4.0,1.082,-0.992,,,excluded: unreliable reference (initial SOH<90%),False,False
+B0046,69,4.0,1.728,-0.931,,,excluded: unreliable reference (initial SOH<90%),False,False
+B0047,69,4.0,1.674,-0.879,,,excluded: unreliable reference (initial SOH<90%),False,False
+B0048,69,4.0,1.658,-0.842,,,excluded: unreliable reference (initial SOH<90%),False,False
+B0049,24,4.0,2.379,-0.996,,,excluded: <40 cycles,False,False
+B0050,17,4.0,2.64,-0.96,,,excluded: <40 cycles,False,False
+B0051,24,4.0,2.331,-0.996,,,excluded: <40 cycles,False,False
+B0052,4,4.0,1.418,0.0,,,excluded: <40 cycles,False,False
+B0053,55,4.0,1.154,-0.621,,,excluded: non-monotone fade (protocol-confounded),False,False
+B0054,102,4.0,1.167,-0.97,55.0,,eligible,True,False
+B0055,102,4.0,1.32,-0.934,55.0,,eligible,True,False
+B0056,102,4.0,1.344,-0.806,,,censored (never <80% SOH),False,True

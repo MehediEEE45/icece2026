@@ -1,0 +1,7 @@
+battery,temp,q_ref_Ah,slope_100_over_qref,n_soc_cycles,group
+B0005,24.0,1.8565,53.87,34,24C-in-group
+B0006,24.0,2.0353,49.13,34,24C-in-group
+B0007,24.0,1.8911,52.88,34,24C-in-group
+B0018,24.0,1.855,53.91,27,24C-in-group
+B0042,22.0,1.7315,57.75,14,out-of-group
+B0054,4.0,1.1665,85.72,21,out-of-group
